@@ -65,5 +65,6 @@ V: Número de perfis que o bot realmente visitou (perfis que você pode acessar:
 Q: Número de perfis na fila.
 </p>
 
-</h2>Aprimoramentos<h2>
+<h2>Aprimoramentos</h2>
+<hr>
   <p>Por favor, sinta-se à vontade para me enviar uma mensagem ou abrir um problema se você tiver uma idéia para uma melhoria! Parece que as pessoas estão começando a usar isso e eu gostaria de melhorá-lo.</p>
