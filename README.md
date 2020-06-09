@@ -33,15 +33,15 @@ Configuração
 Antes de executar o bot, edite a parte de configuração do script. Isso incluirá as informações de login da sua conta (email, senha etc.) e outros valores lógicos para tornar o bot mais seu. É simples assim!
 
 # Configuração
-EMAIL = 'youremail@gmail.com'
-PASSWORD = 'password'
-VIEW_SPECIFIC_USERS = False
-SPECIFIC_USERS_TO_VIEW = ['CEO', 'CTO', 'Developer', 'HR', 'Recruiter']
-NUM_LAZY_LOAD_ON_MY_NETWORK_PAGE = 5
-CONNECT_WITH_USERS = True
-RANDOMIZE_CONNECTING_WITH_USERS = True
-JOBS_TO_CONNECT_WITH = ['CEO', 'CTO', 'Developer', 'HR', 'Recruiter']
-ENDORSE_CONNECTIONS = False
-RANDOMIZE_ENDORSING_CONNECTIONS = True
-VERBOSE = True
-</p>
+<pre><span class="pl-c"># Configurable Constants</span>
+<span class="pl-v">EMAIL</span> <span class="pl-c1">=</span> <span class="pl-s">'youremail@gmail.com'</span>
+<span class="pl-v">PASSWORD</span> <span class="pl-c1">=</span> <span class="pl-s">'password'</span>
+<span class="pl-v">VIEW_SPECIFIC_USERS</span> <span class="pl-c1">=</span> <span class="pl-c1">False</span>
+<span class="pl-v">SPECIFIC_USERS_TO_VIEW</span> <span class="pl-c1">=</span> [<span class="pl-s">'CEO'</span>, <span class="pl-s">'CTO'</span>, <span class="pl-s">'Developer'</span>, <span class="pl-s">'HR'</span>, <span class="pl-s">'Recruiter'</span>]
+<span class="pl-v">NUM_LAZY_LOAD_ON_MY_NETWORK_PAGE</span> <span class="pl-c1">=</span> <span class="pl-c1">5</span>
+<span class="pl-v">CONNECT_WITH_USERS</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>
+<span class="pl-v">RANDOMIZE_CONNECTING_WITH_USERS</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>
+<span class="pl-v">JOBS_TO_CONNECT_WITH</span> <span class="pl-c1">=</span> [<span class="pl-s">'CEO'</span>, <span class="pl-s">'CTO'</span>, <span class="pl-s">'Developer'</span>, <span class="pl-s">'HR'</span>, <span class="pl-s">'Recruiter'</span>]
+<span class="pl-v">ENDORSE_CONNECTIONS</span> <span class="pl-c1">=</span> <span class="pl-c1">False</span>
+<span class="pl-v">RANDOMIZE_ENDORSING_CONNECTIONS</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>
+<span class="pl-v">VERBOSE</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span></pre>
