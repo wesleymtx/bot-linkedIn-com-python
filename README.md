@@ -57,7 +57,7 @@ Antes de executar o bot, edite a parte de configuração do script. Isso incluir
 <h2>Rodar</h2>
 <hr>
 <p>
-Depois de instalar as dependências necessárias e editar o configarquivo, você pode executar o bot.
+Depois de instalar as dependências necessárias e editar o config, você pode executar o bot.
 
 Verifique se você está na pasta correta e execute o seguinte comando: python LinkedInBot.py
 
