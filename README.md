@@ -6,7 +6,6 @@ Quando você visualiza o perfil do usuário no LinkedIn, ele é notificado de qu
 </p>
 <h2>Exigências</h2>
 <hr>
-<h2>Exigências</h2>
 <p>
   Importante: verifique se sua Configuração de visualização de perfil foi alterada de 'Anônimo' para 'Público' para que os membros do LinkedIn possam ver que você os visitou e que podem visitar seu perfil em troca. Você também deve alterar sua configuração de idioma para inglês .
 
@@ -45,3 +44,26 @@ Antes de executar o bot, edite a parte de configuração do script. Isso incluir
 <span class="pl-v">ENDORSE_CONNECTIONS</span> <span class="pl-c1">=</span> <span class="pl-c1">False</span>
 <span class="pl-v">RANDOMIZE_ENDORSING_CONNECTIONS</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span>
 <span class="pl-v">VERBOSE</span> <span class="pl-c1">=</span> <span class="pl-c1">True</span></pre>
+
+<h2>Rodar</h2>
+<hr>
+<p>
+Depois de instalar as dependências necessárias e editar o configarquivo, você pode executar o bot.
+
+Verifique se você está na pasta correta e execute o seguinte comando: python LinkedInBot.py
+
+Depois de escolher o seu navegador favorito, o bot começará a visitar perfis.
+</p>
+
+<h2>Resultado</h2>
+<hr>
+<p>
+T: Número de perfis que o bot tentou acessar;
+
+V: Número de perfis que o bot realmente visitou (perfis que você pode acessar: classificação 3 ou menos);
+
+Q: Número de perfis na fila.
+</p>
+
+</h2>Aprimoramentos<h2>
+  <p>Por favor, sinta-se à vontade para me enviar uma mensagem ou abrir um problema se você tiver uma idéia para uma melhoria! Parece que as pessoas estão começando a usar isso e eu gostaria de melhorá-lo.</p>
