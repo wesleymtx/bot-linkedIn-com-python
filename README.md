@@ -15,8 +15,10 @@ Antes de executar o bot, você precisará instalar algumas dependências do Pyth
 
 Nota: Python 2.7.9 e posterior (na série python2) e Python 3.4 e posterior incluem pip por padrão, portanto, você já deve ter o pip. Caso contrário, você pode instalar o easy_install sudo apt-get install python-setuptools para instalar o pip sudo easy_install pip .
 
-BeautifulSoup4 , para analisar html:pip install BeautifulSoup4
-Selenium , para automação do navegador:pip install Selenium
+<ul>
+<li><a href="https://pypi.python.org/pypi/beautifulsoup4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BeautifulSoup4</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , para analisar html:</font></font><code>pip install BeautifulSoup4</code></li>
+<li><a href="http://www.seleniumhq.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Selenium</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> , para automação do navegador:</font></font><code>pip install Selenium</code></li>
+</ul>
 Se você planeja usar o Firefox (ou Iceweasel), não precisa de mais nada.
 
 Para o Chrome, primeiro obtenha o driver da web e coloque-o na mesma pasta que o bot, se você estiver no Windows, ou na /usr/binpasta se estiver no OS X.
